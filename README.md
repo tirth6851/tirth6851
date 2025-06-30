@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hey there, I'm Tirth!
 
-<!--
-**tirth6851/tirth6851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Undergrad** @ Cleveland State University  
+🧠 **STEM Peer Teacher** for Precalculus I (MTH 167)  
+💻 Python Dev | AI + Cybersecurity Enthusiast | CS50P Student  
+🌱 Solving real problems with code — one line at a time
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+- Python (CS50P)
+- AI Concepts & Prompt Engineering
+- Cybersecurity & Ethical Hacking
+- Math: Precalculus → Calculus I
+
+---
+
+## 🛠️ Projects Coming Soon
+- 📚 Study tools for math & CS
+- 🤖 Smart prompt templates for ChatGPT
+- 🐍 Python CLI tools & automation scripts
+
+---
+
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/tirth-patel-949197346/)
+- 📧 tirth2093@gmail.com
+
+
+
