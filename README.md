@@ -15,13 +15,6 @@
 
 ---
 
-## 🛠️ Projects Coming Soon
-- 📚 Study tools for math & CS
-- 🤖 Smart prompt templates for ChatGPT
-- 🐍 Python CLI tools & automation scripts
-
----
-
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/tirth-patel-949197346/)
 - 📧 tirth2093@gmail.com
