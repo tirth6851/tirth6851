@@ -12,6 +12,7 @@
 - AI Concepts & Prompt Engineering
 - Cybersecurity & Ethical Hacking
 - Math: Precalculus → Calculus I
+- Kotline
 
 ---
 
