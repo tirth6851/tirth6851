@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Tirth!
+#  Hey there, I'm Tirth!
 
 🎓 **Computer Science Undergrad** @ Cleveland State University  
 🧠 **STEM Peer Teacher** for Precalculus I (MTH 167)  
@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Currently Learning
+##  Currently Learning
 - Python (CS50P)
 - AI Concepts & Prompt Engineering
 - Cybersecurity & Ethical Hacking
@@ -16,7 +16,7 @@
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/tirth-patel-949197346/)
 - 📧 tirth2093@gmail.com
 
