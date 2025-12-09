@@ -79,7 +79,7 @@
 - 💻 Computer Science Major
 - 🔢 Math Minor
 - 🎯 Supplemental Peer Tutor for Precalculus (MTH 167)
-- 📅 Expected Graduation: 2027
+- 📅 Expected Graduation: 2028
 
 ---
 
