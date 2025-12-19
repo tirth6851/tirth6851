@@ -90,10 +90,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tirth6851&layout=compact&theme=tokyonight&card_width=500)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tirth6851&theme=tokyonight)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tirth6851&theme=tokyonight&no-frame=true&row=1&column=7)
----
+![GitHub Streak](https://streak-stats.demolab.com/?user=tirth6851&theme=tokyonight)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tirth6851&theme=tokyonight&no-frame=false&row=1&column=7)---
 
 ## 💬 Connect With Me
 
