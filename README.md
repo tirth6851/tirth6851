@@ -85,9 +85,9 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tirth6851&show_icons=true&theme=tokyonight)&card_width=500
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tirth6851&show_icons=true&theme=tokyonight&card_width=500)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tirth6851&layout=compact&theme=tokyonight)&card_width=500
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tirth6851&layout=compact&theme=tokyonight&card_width=500)
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tirth6851&theme=tokyonight)
