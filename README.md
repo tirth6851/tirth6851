@@ -61,9 +61,9 @@ Data Structures (Java) · CS50P (Python) · Calculus I · Machine Learning Funda
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tirth6851&show_icons=true&theme=tokyonight&hide_border=false&count_private=true)
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tirth6851&show_icons=true&theme=tokyonight&hide_border=false&count_private=true)](https://github.com/tirth6851)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tirth6851&layout=compact&theme=tokyonight&hide_border=false)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tirth6851&layout=compact&theme=tokyonight&hide_border=false)](https://github.com/tirth6851)
 
 ---
 
