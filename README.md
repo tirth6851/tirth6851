@@ -46,14 +46,8 @@ Data Structures (Java) · CS50P (Python) · Calculus I · Machine Learning Funda
 ## Roadmap (2025-2026)
 
 **Next 6 Months**
-- Build 2-3 portfolio projects combining Java backend with Python ML models
 - Contribute to open-source repositories
 - Strengthen data structures & algorithms knowledge
-
-**By End of 2026**
-- Deepen cybersecurity fundamentals
-- Develop full-stack web application
-- Begin competitive programming practice
 
 ---
 
